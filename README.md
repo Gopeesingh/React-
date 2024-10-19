@@ -31,3 +31,8 @@ Real DOM Update: React then updates just the text inside the h1 element in the a
 This selective updating process makes the app faster and more efficient, especially in complex applications where manipulating the real DOM directly could be slow.
 
 in my word virtual dom is: aap pure ke pure dom ko trake kar sakte ho trace ker sakte ho tree like structure me jo jo value change hue hai sirf usko dom se nikal kar vapis use laga do
+
+Tailwind and Props in reactjs:-->
+** documention
+* tailwind.CSS
+* DevUI.io(for card component)
