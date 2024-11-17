@@ -5,7 +5,7 @@ function Github() {
     // const data = useLoaderData()
     const [data, setData] = useState([])
     useEffect(() => {
-    fetch('https://api.github.com/users/Gopeesingh')
+    fetch('https://api.instagram.com/users/banna_gopee_thakur')
     .then(response => response.json())
     .then(data => {
         console.log(data);
