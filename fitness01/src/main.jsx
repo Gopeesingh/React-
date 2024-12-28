@@ -8,7 +8,7 @@ import Home from './components/Home/Home.jsx'
 import About from './components/About/About.jsx'
 import Service from './components/Service/Service.jsx'
 import Gallary from './components/Gallary/Gallary.jsx'
-import Clints from './components/Clints/Clints.jsx'
+import Clients from './components/Clients/Clients.js'
 import Contact from './components/Contact/Contact.jsx'
 
   const router = createBrowserRouter(
@@ -18,7 +18,7 @@ import Contact from './components/Contact/Contact.jsx'
       <Route path='about' element={<About />} />
       <Route path='service' element={<Service />} />
       <Route path='gallary' element={<Gallary />} />
-      <Route path='clints' element={<Clints />} />
+      <Route path='clients' element={<Clients />} />
       <Route path='contact' element={<Contact />} />
   </ Route>
   )
